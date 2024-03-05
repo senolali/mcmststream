@@ -1,4 +1,4 @@
-
+Python Implementation of MCMSTStream stream clustering algorithm.
 
 If you use the code please refere to the citation shared below:
 
